@@ -1,1 +1,1 @@
-# -Pro-24-Archery-3.0
+# project-C25-template
